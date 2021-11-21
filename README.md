@@ -1,5 +1,3 @@
-"""Готовый голосовой ввод в файле gav.py
-Готовая конвертация валюты в Test1.0"""
 import pyttsx3
 import time
 import sqlite3
